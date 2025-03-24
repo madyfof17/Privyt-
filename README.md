@@ -9,7 +9,7 @@ Inbuilt Privyt Wallet → A secure, non-exportable wallet for internal transacti
 Exportable Wallets → Users can create external-compatible wallets that connect to MetaMask & other Web3 wallets.  
 Gasless Transactions → Native transaction sponsorship to improve UX & reduce fees.  
 Smart Contract Security → Privyt uses multi-layer encryption & decentralized verification.  
-Dapp Integration → Developers can onboard users with Privyt Auth SDK & APIs.  
+Dapp Integration → Developers can onboard users with Privyt Auth SDk & APIs.  
 Built-in Email System → Users receive important wallet notifications inside Privyt
 
 Technology Stack→
